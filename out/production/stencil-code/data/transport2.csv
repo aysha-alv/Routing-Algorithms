@@ -1,0 +1,8 @@
+origin,destination,type,price,duration
+Boston,Providence,train,100,1
+Boston,Durham,train,3,1
+Boston,Washington,train,1,1
+Durham,Providence,train,6,1
+Durham,Chicago,train,2,1
+Chicago,Providence,train,1,1
+Washington,Chicago,train,5,1
